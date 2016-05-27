@@ -1,2 +1,2 @@
 # imagevideo-slideshow
-Implements mixed image/video slideshows
+Implements mixed image/video slideshows in python
